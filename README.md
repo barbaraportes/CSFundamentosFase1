@@ -1,4 +1,4 @@
-# Curso C# Essencial: Fundamentos - Fase 1 do Professor Macoratti.
+# Curso C# Essencial: Fundamentos - Fase 1 do Professor Macoratti (Udemy).
 
 - Tipos de dados
 - Tipos de valor
